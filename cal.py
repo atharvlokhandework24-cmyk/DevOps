@@ -126,3 +126,6 @@ if __name__ == "__main__":
 
 
 #new changes through the feature branch please review and pull
+
+
+#added more features of calculator like percentage, sign change and backspace functionality.
